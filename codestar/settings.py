@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-modm8+3yiio0zjwr=x9v$3!@rtp71t5q6ia3m@@ifh!hi&_406
 SUPER_SECRET_KEY =os.environ.get("THSKS_//SDASEJ@@##?4412414//1ASDA@@#")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-rasm1-djangoblog-hq0ag37rfrn.ws-eu116.gitpod.io', 'my-django-blogger-881d348524f8.herokuapp.com']
 
